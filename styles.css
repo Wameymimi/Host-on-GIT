@@ -1,0 +1,30 @@
+.my-5 {
+  margin-top: 9rem !important;
+  margin-bottom: -0.5rem !important;
+}
+
+h1 {
+  font-size: 66px;
+}
+
+span {
+  color: #be2b2b;
+}
+
+.btn {
+  background-color: #be2b2b;
+}
+
+p.time {
+  font-weight: 700;
+  line-height: 1.5rem;
+}
+
+footer {
+  background-color: #be2b2b;
+  height: 100px;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+/*# sourceMappingURL=styles.css.map */
